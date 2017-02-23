@@ -1,7 +1,7 @@
-# Jolly-balls Rules and Customs
+# Jollyballs Rules and Customs
 
 ## **Objective**:
-Teams of three compete to win the best two out of three games, or three out of five, with each game going until one team wins. Games are played are concluded when a team reaches seven points except in the following cases:  
+Teams of three compete to win the best two out of three games, or three out of five, with each game going until one team wins. Games are concluded when a team reaches seven points except in the following cases:  
 * If one team reaches five points before their opponent is able to score, they have skunked their opponent and the game ends.  
 * If both teams have six points, the game will be extended, requiring the winner to win by two points.  The game will continue until one team has two points, regardless of the score.
 
@@ -23,11 +23,11 @@ In the event of a slam, the ball can be blocked or deflected back to the side th
 
 *Note: While we observe the Supreme Court's opinion of "You know a slam when you see one," a good rule of thumb is "a flick of the wrist" is a slam.*
 
-Jolly-balls operates on side-out scoring, meaning that only the team that serves can score a point. If the team who received the serve is unable to return the ball to the table in the allotted number of touches, the team who serves receives a point. If the team who served faults, or the other team prevents them from returning the ball, the receiving team now is
+Jollyballs operates on side-out scoring, meaning that only the team that serves can score a point. If the team who received the serve is unable to return the ball to the table in the allotted number of touches, the team who serves receives a point. If the team who served faults, or the other team prevents them from returning the ball, the receiving team now is
 in possession of the ball and rotates positions clockwise.
 
 ## **Additional Rules**:
-* In Jolly-balls, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.
+* In Jollyballs, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.
 
 * A player may hit the ball off of their body but cannot cary, toss, or throw the ball.
 
@@ -35,7 +35,7 @@ in possession of the ball and rotates positions clockwise.
 
 * No part of a player's body may extend past the net unless the player is hitting the ball backward to a teammate. In the event that a player is called offsides, that team is at fault and loses that possession.
 
-* Jolly-balls is a friendly game, wherein the event there is not a line judge present, disputed points or actions are decided by all players on the table. In the event that this ruling is not already present in the rules, the players will come to a collective conclusion to continue with the game. At the conclusion of the match, the dispute is posted in the slack channel and decided on by a majority vote.
+* Jollyballs is a friendly game, wherein the event there is not a line judge present, disputed points or actions are decided by all players on the table. In the event that this ruling is not already present in the rules, the players will come to a collective conclusion to continue with the game. At the conclusion of the match, the dispute is posted in the slack channel and decided on by a majority vote.
 
 *Note: This is meant to be fun, don't be a douche. When in doubt, redo the play, as the ball does not lie.*
 
