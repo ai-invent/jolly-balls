@@ -3,7 +3,7 @@
 ## **Objective**:
 Teams of three compete to win the best two out of three games, or three out of five, with each game going until one team wins. Games are concluded when a team reaches seven points except in the following cases:  
 * If one team reaches five points before their opponent is able to score, they have skunked their opponent and the game ends.  
-* If both teams have six points, the game will be extended, requiring the winner to win by two points.  The game will continue until one team has two points, regardless of the score.
+* If both teams have six points, the game will be extended, requiring the winner to win by two points.  The game will continue until one team has two points more than the other team, regardless of the score.
 
 This is a game of the people, meaning that this is to be a civil game so that all may have a jolly time.
 
@@ -29,7 +29,7 @@ in possession of the ball and rotates positions clockwise.
 ## **Additional Rules**:
 * In Jollyballs, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.
 
-* A player may hit the ball off of their body but cannot cary, toss, or throw the ball.
+* A player may hit the ball off of their body but cannot carry, toss, or throw the ball.
 
 *Note: This can be both a disadvantage for those with low hanging ceiling fixtures and an advantage for those who have walls nearby.*
 
