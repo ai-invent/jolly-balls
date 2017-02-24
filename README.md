@@ -10,7 +10,7 @@ This is a game of the people, meaning that this is to be a civil game so that al
 ## **How to Start**:
 Before each game in the series, each team places their paddles on the table with their paddle handle hanging off the edge. Two paddles should be placed on the corner and the third paddle should be centered on the table.
 
-One team will toss the jolly-ball at the other team's paddles. If the first player hits the padding of the paddle, then the other team has a chance for a rebuttal. In the event that the player of the second team hits the paddle or handle, the second team will be first to serve. If the first player hits the handle of any of the second team's paddles, or hits two paddles in one shot, then it will be their ball first.
+One team will toss the jollyball at the other team's paddles. If the first player hits the padding of the paddle, then the other team has a chance for a rebuttal. In the event that the player of the second team hits the paddle or handle, the second team will be first to serve. If the first player hits the handle of any of the second team's paddles, or hits two paddles in one shot, then it will be their ball first.
 
 *Note: If a player's elbow extends past the edge of the table, they forfeit their toss, giving the ball to the other side.*
 
