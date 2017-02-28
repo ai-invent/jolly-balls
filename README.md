@@ -3,9 +3,9 @@
 ![](jb.gif)
 
 ## **Objective**:
-Teams of three compete to win the best two out of three games, or three out of five. Games are concluded when a team reaches seven points except in the following cases:  
+Teams of three compete to win the best two out of three games, or three out of five (players should come to a consensus about number of games before beginning the match). Games are concluded when a team reaches seven points except in the following cases:  
 * If one team reaches five points before their opponent is able to score, they have skunked their opponent and the game ends.  
-* If both teams have six points, the game will be extended, requiring the winner to win by two points.  The game will continue until one team has two points more than the other team, regardless of the score.
+* If both teams have six points, the game will be extended, requiring the winner to win by two points. The game will continue until one team has two points more than the other team, regardless of the score.
 
 This is a game of the people, meaning that this is to be a civil game so that all may have a jolly time.
 
