@@ -1,5 +1,6 @@
 # Jollyballs Rules and Customs
 
+![](jb.gif)
 
 ## **Objective**:
 Teams of three compete to win the best two out of three games, or three out of five. Games are concluded when a team reaches seven points except in the following cases:  
