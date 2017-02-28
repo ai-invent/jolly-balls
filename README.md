@@ -1,7 +1,12 @@
 # Jollyballs Rules and Customs
 
-## Objective:
-Teams of three compete to win the best two out of three games, or three out of five, with each game going until one team wins. This is a game of the people, meaning that this is to be a civil game so that all may have a jolly time.
+
+## **Objective**:
+Teams of three compete to win the best two out of three games, or three out of five. Games are concluded when a team reaches seven points except in the following cases:  
+* If one team reaches five points before their opponent is able to score, they have skunked their opponent and the game ends.  
+* If both teams have six points, the game will be extended, requiring the winner to win by two points.  The game will continue until one team has two points more than the other team, regardless of the score.
+
+This is a game of the people, meaning that this is to be a civil game so that all may have a jolly time.
 
 ## Choosing teams:
 The first player to call for a match of Jollyballs shall be the first captain. The player who seconds the notion shall draft...second. Snake draft rules shall be in effect: The first captain drafts a single player, the second drafts two players, and then the remaining undrafted player joins the first captain's team.
@@ -18,7 +23,7 @@ The team who won the initial toss will start with the ball. The person in the ce
 
 The receiving team must let the ball bounce on their side before passing the ball to a teammate. When the ball crosses the net, it cannot be immediately returned and must be hit by at least two players before being returned. The ball can be returned after two or three touches, but cannot exceed three or it will result in the loss of the ball/point.
 
-In the event of a slam, the ball can be blocked or deflected back to the side that slammed without the need for a pass. A block or deflection does not count against the three maximum touches, nor does it count against the team who slammed. However, if a block is hit back to the team who slammed the ball, that team has to return the ball, as the ball is live.
+In the event of a slam, the ball can be blocked or deflected back to the side that slammed without the need for a pass. A block does not count against the three maximum touches, nor does it count against the team that slammed. However, if a block is hit back to the team who slammed the ball, that team has to return the ball, as the ball is live.
 
 *Note: While we observe the Supreme Court's opinion of "You know a slam when you see one," a good rule of thumb is "a flick of the wrist" is a slam.*
 
@@ -28,7 +33,7 @@ in possession of the ball and rotates positions clockwise.
 ## Additional Rules:
 * In Jollyballs, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.
 
-	A player may hit the ball off of their
+* A player may hit the ball off of their body but cannot carry, toss, or throw the ball.
 
 *Note: This can be both a disadvantage for those with low hanging ceiling fixtures and an advantage for those who have walls nearby.*
 
