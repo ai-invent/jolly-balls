@@ -4,18 +4,20 @@
 
 ## **Objective**:
 Teams of three compete to win the best two out of three games, or three out of five (players should come to a consensus about number of games before beginning the match). Games are concluded when a team reaches seven points except in the following cases:  
-* If one team reaches five points before their opponent is able to score, they have skunked their opponent and the game ends.  
+* If one team reaches five points before their opponent is able to score, and the other team has had a chance to serve, they have skunked their opponent and the game ends.  
 * If both teams have six points, the game will be extended, requiring the winner to win by two points. The game will continue until one team has two points more than the other team, regardless of the score.
 
 This is a game of the people, meaning that this is to be a civil game so that all may have a jolly time.
 
 ## Choosing teams:
-The first player to call for a match of Jollyballs shall be the first captain. The player who seconds the notion shall draft...second. Snake draft rules shall be in effect: The first captain drafts a single player, the second drafts two players, and then the remaining undrafted player joins the first captain's team.
+The first player to call for a match of Jollyballs shall be the first captain. The player who seconds the notion shall be the second captain. Selecting players will then occur in the form of a Snake draft. The first captain drafts a single player, the second drafts two players, and then the remaining undrafted player joins the first captain's team.
 
 ## Choosing which team serves first:
 Before each game in the series, each team places their paddles on the table with their paddle handle hanging off the edge. Two paddles should be placed on the corner and the third paddle should be centered on the table.
 
 One team will toss the jollyball at the other team's paddles. If the first player hits the padding of the paddle, then the other team has a chance for a rebuttal. In the event that the player of the second team hits the paddle or handle, the second team will be first to serve. If the first player hits the handle of any of the second team's paddles, or hits two paddles in one shot, then it will be their ball first.
+
+In the event that every player on each team has had a chance to shoot, the rebuttal is suspended and the first team to hit a paddle wins.
 
 *Note: If a player's elbow extends past the edge of the table, they forfeit their toss, giving the ball to the other side.*
 
