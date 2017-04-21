@@ -26,6 +26,8 @@ The team who won the initial toss will start with the ball. The person in the ce
 
 The receiving team must let the ball bounce on their side before passing the ball to a teammate. When the ball crosses the net, it cannot be immediately returned and must be hit by at least two players before being returned. The ball can be returned after two or three touches, but cannot exceed three or it will result in the loss of the ball/point.
 
+If a player is hit while outside the field of play, the ball is dead unless it hits the following locations; the edge of the table, a player's paddle, a player's wrist or hand, or any other body part over the table.
+
 ##Blocks
 Any shot, slam, poke, or hit can be blocked, with the exception of a serve. A shot can be blocked or deflected back to the side that hit the ball without the need for a pass and will count as a live ball. A block does not count against the three maximum touches and a player may allow immediately hit the ball after blocking. nor does it count against the team that hit it.
 
@@ -52,9 +54,9 @@ At the conclusion of the game, players of both sides line up and shake hands or 
 An alternative way to end the game is to achieve a "KUBA."  A "KUBA" is a particularly difficult location, obstacle, or receptacle to have the ball travel through or fall into to immediately end the game.  A prime example is a distant bowl, box, or office basketball hoop. On every court an especially difficult location should be specified for each side to act as the "KUBA."  
 
 ## Additional Rules:
-* In Jollyballs, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.
+* In Jollyballs, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.  If the ball comes to a rest in an accessible place, you have less than three seconds to strike the ball.
 
-* A player may hit the ball off of their body but cannot carry, toss, or throw the ball.
+* A player may hit the ball off of their body but cannot carry, toss, or throw the ball.  Hitting the ball off of your body is known as a Scoop and does not count as a hit.
 
 *Note: This can be both a disadvantage for those with low hanging ceiling fixtures and an advantage for those who have walls nearby.*
 
@@ -63,3 +65,7 @@ An alternative way to end the game is to achieve a "KUBA."  A "KUBA" is a partic
 * Jollyballs is a friendly game, wherein the event there is not a line judge present, disputed points or actions are decided by all players on the table. In the event that this ruling is not already present in the rules, the players will come to a collective conclusion to continue with the game. At the conclusion of the match, the dispute is posted in the slack channel and decided on by a majority vote.
 
 *Note: This is meant to be fun, don't be a douche. When in doubt, redo the play, as the ball does not lie.*
+
+* If a player hits three consecutive lets, then on the third let within a single possession will count as live.
+
+* To call time out, all players on the team requesting a time out must place their paddles on the table to signal that a time out is being called.  It is also customary that players kneel during a time out
