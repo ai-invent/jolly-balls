@@ -53,6 +53,11 @@ At the conclusion of the game, players of both sides line up and shake hands or 
 *KUBA*
 An alternative way to end the game is to achieve a "KUBA."  A "KUBA" is a particularly difficult location, obstacle, or receptacle to have the ball travel through or fall into to immediately end the game.  A prime example is a distant bowl, box, or office basketball hoop. On every court an especially difficult location should be specified for each side to act as the "KUBA."  
 
+## Round Robin Rules:
+* If any multiple of 3 greater than 6 players all would like to play at the same time, a round robin of Jollyballs can be initiated.  In this scenario, the first three players to motion for Jollyballs become the captains following a snake draft selection order.  
+
+* In lieu of traditional matches of three games, teams will rotate sides of the table and opponents after each individual game, rotating from one side of the table, to the other side, then to off the table.  If there is a tie between two teams for being eliminated off the table, the tie breaker will be decided by the total number of points between their two games.
+
 ## Additional Rules:
 * In Jollyballs, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.  If the ball comes to a rest in an accessible place, you have less than three seconds to strike the ball.
 
