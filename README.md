@@ -29,26 +29,26 @@ The receiving team must let the ball bounce on their side before passing the bal
 If a player is hit while outside the field of play, the ball is dead unless it hits the following locations; the edge of the table, a player's paddle, a player's wrist or hand, or any other body part over the table.
 
 ##Blocks
-Any shot, slam, poke, or hit can be blocked, with the exception of a serve. A shot can be blocked or deflected back to the side that hit the ball without the need for a pass and will count as a live ball. A block does not count against the three maximum touches and a player may allow immediately hit the ball after blocking. nor does it count against the team that hit it.
+Any shot, slam, poke, or hit can be blocked, with the exception of a serve. A shot can be blocked or deflected back to the side that hit the ball without the need for a pass and will count as a live ball. A block does not count against the three maximum touches and a player may allow immediately hit the ball after blocking.
 
 *What is a Block?*
 A block is defined as the defensive player extending his/her paddle and holding it out on his/her side of the net with hopes to deflect the shot.  A block may move horizontally along the net and vertically above the net, but not towards the net, or else it is not considered a block and results in a fault.
 
-If the paddle of the blocker is hit while attempting to block a shot, it counts as his/her deflection and will count against the blocker if it goes off the table.  If any part of the blocker is over the table and hit while blocking, the ball is live and the responsibility the individual whom was hit.  
+If the paddle of the blocker is hit while attempting to block a shot, it counts as his/her deflection and will count against the blocker if it goes off the table.  If any part of the blocker is over the table and hit while blocking, the ball is live and the responsibility of the individual whom was hit.  
 
 ##Scoring
 Jollyballs operates on side-out scoring, meaning that only the team that serves can score a point. If the team who received the serve is unable to return the ball to the table in the allotted number of touches, the team who serves receives a point. If the team who served faults, or the other team prevents them from returning the ball, the receiving team now is
 in possession of the ball and rotates positions clockwise.
 
 ##Officiating
-Jollyballs is first and foremost a self-officiated sport.  It is an expectation that players recognize when they have crossed the line, hit the ball twice, or broken the rule.  In the event that either side could have been at fault and it is uncertain whom is at fault, a re-do should be declared.  
+Jollyballs is first and foremost a self-officiated sport.  It is an expectation that players recognize when they have crossed the line, hit the ball twice, or broken a rule.  In the event that either side could have been at fault and it is uncertain whom is at fault, a re-do should be declared.  
 
 In especially competitive matches, it is not uncommon to have a line judge present.  The line judge has the final say on line infractions and any other contentious plays.  It is important for the line judge to sit along the net so that they have the optimal vantage point to officiate the game.
 
 ## End of Game/Match:
 To end the game, the serving team must first state the score then announce "Jolly Point."  Without the declaration of "Jolly Point," the receiving team can declare the point invalid and request a re-do.  On match point, if a team does not declare "Super Jolly Point" or "Jolliest Point" then the same rules apply for "Jolly Point."
 
-At the conclusion of the game, players of both sides line up and shake hands or exchange a words. This is an expected and time-honored tradition.
+At the conclusion of the match, players of both sides line up and shake hands or exchange a words. This is an expected and time-honored tradition.
 
 *KUBA*
 An alternative way to end the game is to achieve a "KUBA."  A "KUBA" is a particularly difficult location, obstacle, or receptacle to have the ball travel through or fall into to immediately end the game.  A prime example is a distant bowl, box, or office basketball hoop. On every court an especially difficult location should be specified for each side to act as the "KUBA."  
@@ -61,7 +61,7 @@ An alternative way to end the game is to achieve a "KUBA."  A "KUBA" is a partic
 ## Additional Rules:
 * In Jollyballs, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.  If the ball comes to a rest in an accessible place, you have less than three seconds to strike the ball.
 
-* A player may hit the ball off of their body but cannot carry, toss, or throw the ball.  Hitting the ball off of your body is known as a Scoop and does not count as a hit.
+* A player may hit the ball off of their body but cannot carry, toss, or throw the ball.  Reflecting the a shot with your body and then hitting the ball is known as a Scoop and counts as only one hit.
 
 *Note: This can be both a disadvantage for those with low hanging ceiling fixtures and an advantage for those who have walls nearby.*
 
@@ -71,6 +71,6 @@ An alternative way to end the game is to achieve a "KUBA."  A "KUBA" is a partic
 
 *Note: This is meant to be fun, don't be a douche. When in doubt, redo the play, as the ball does not lie.*
 
-* If a player hits three consecutive lets, then on the third let within a single possession will count as live.
+* If a player hits three consecutive lets, then on the third let will count as live.
 
-* To call time out, all players on the team requesting a time out must place their paddles on the table to signal that a time out is being called.  It is also customary that players kneel during a time out
+* To call time out, all players on the team requesting a time out must place their paddles on the table to signal that a time out is being called.  It is also customary that players kneel during a time out.
