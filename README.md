@@ -26,10 +26,15 @@ The team who won the initial toss will start with the ball. The person in the ce
 
 The receiving team must let the ball bounce on their side before passing the ball to a teammate. When the ball crosses the net, it cannot be immediately returned and must be hit by at least two players before being returned. The ball can be returned after two or three touches, but cannot exceed three or it will result in the loss of the ball/point.
 
-In the event of a slam, the ball can be blocked or deflected back to the side that slammed without the need for a pass. A block does not count against the three maximum touches, nor does it count against the team that slammed. However, if a block is hit back to the team who slammed the ball, that team has to return the ball, as the ball is live.
+##Blocks
+Any shot, slam, poke, or hit can be blocked, with the exception of a serve. A shot can be blocked or deflected back to the side that hit the ball without the need for a pass and will count as a live ball. A block does not count against the three maximum touches and a player may allow immediately hit the ball after blocking. nor does it count against the team that hit it.
 
-*Note: While we observe the Supreme Court's opinion of "You know a slam when you see one," a good rule of thumb is "a flick of the wrist" is a slam.*
+*What is a Block?*
+A block is defined as the defensive player extending his/her paddle and holding it out on his/her side of the net with hopes to deflect the shot.  A block may move horizontally along the net and vertically above the net, but not towards the net, or else it is not considered a block and results in a fault.
 
+If the paddle of the blocker is hit while attempting to block a shot, it counts as his/her deflection and will count against the blocker if it goes off the table.  If any part of the blocker is over the table and hit while blocking, the ball is live and the responsibility the individual whom was hit.  
+
+##Scoring
 Jollyballs operates on side-out scoring, meaning that only the team that serves can score a point. If the team who received the serve is unable to return the ball to the table in the allotted number of touches, the team who serves receives a point. If the team who served faults, or the other team prevents them from returning the ball, the receiving team now is
 in possession of the ball and rotates positions clockwise.
 
