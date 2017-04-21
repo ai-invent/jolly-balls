@@ -38,6 +38,19 @@ If the paddle of the blocker is hit while attempting to block a shot, it counts 
 Jollyballs operates on side-out scoring, meaning that only the team that serves can score a point. If the team who received the serve is unable to return the ball to the table in the allotted number of touches, the team who serves receives a point. If the team who served faults, or the other team prevents them from returning the ball, the receiving team now is
 in possession of the ball and rotates positions clockwise.
 
+##Officiating
+Jollyballs is first and foremost a self-officiated sport.  It is an expectation that players recognize when they have crossed the line, hit the ball twice, or broken the rule.  In the event that either side could have been at fault and it is uncertain whom is at fault, a re-do should be declared.  
+
+In especially competitive matches, it is not uncommon to have a line judge present.  The line judge has the final say on line infractions and any other contentious plays.  It is important for the line judge to sit along the net so that they have the optimal vantage point to officiate the game.
+
+## End of Game/Match:
+To end the game, the serving team must first state the score then announce "Jolly Point."  Without the declaration of "Jolly Point," the receiving team can declare the point invalid and request a re-do.  On match point, if a team does not declare "Super Jolly Point" or "Jolliest Point" then the same rules apply for "Jolly Point."
+
+At the conclusion of the game, players of both sides line up and shake hands or exchange a words. This is an expected and time-honored tradition.
+
+*KUBA*
+An alternative way to end the game is to achieve a "KUBA."  A "KUBA" is a particularly difficult location, obstacle, or receptacle to have the ball travel through or fall into to immediately end the game.  A prime example is a distant bowl, box, or office basketball hoop. On every court an especially difficult location should be specified for each side to act as the "KUBA."  
+
 ## Additional Rules:
 * In Jollyballs, all surfaces, with the exception of the floor are live. If the ball hits off the wall, ceiling, tabletop, or any other nearby surface; the ball is playable.
 
@@ -50,6 +63,3 @@ in possession of the ball and rotates positions clockwise.
 * Jollyballs is a friendly game, wherein the event there is not a line judge present, disputed points or actions are decided by all players on the table. In the event that this ruling is not already present in the rules, the players will come to a collective conclusion to continue with the game. At the conclusion of the match, the dispute is posted in the slack channel and decided on by a majority vote.
 
 *Note: This is meant to be fun, don't be a douche. When in doubt, redo the play, as the ball does not lie.*
-
-## End of Game:
-At the conclusion of the game, players of both sides line up and shake hands. This is an expected and time-honored tradition.
