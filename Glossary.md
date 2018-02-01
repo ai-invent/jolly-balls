@@ -1,6 +1,8 @@
 # Jollyballs Glossary
 
 ## General Terms
+* **Asseblage**- A term used when calling a game to indicate that the players should gather at the table.
+
 * **VTS**- VTS stands for "Value the Serve".  When a player faults on a serve, it is common to utter "VTS" to him or her.
 
 * **Trop**- Short for the "Tropicana Field," known for its difficult elements that cause players to make mistakes.  In Jollyballs, this is known as any irregular element in the field of play.
